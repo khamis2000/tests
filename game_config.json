@@ -1,0 +1,37 @@
+{
+    "places": [
+      "Kitchen",
+      "Ballroom",
+      "Conservatory",
+      "Dining Room",
+      "Billiard Room",
+      "Library",
+      "Lounge",
+      "Hall",
+      "Study",
+      "Garden",
+      "Patio",
+      "Balcony",
+      "Theater",
+      "Gallery",
+      "Guest Room",
+      "Observatory",
+      "Office",
+      "Pool Area",
+      "Roof",
+      "Basement"
+    ],
+    "weapons": [
+      "Knife",
+      "Pistol",
+      "Candlestick",
+      "Poison",
+      "Rope",
+      "Lead Pipe",
+      "Wrench",
+      "Firearm",
+      "Baseball Bat",
+      "Trophy"
+    ]
+  }
+  
